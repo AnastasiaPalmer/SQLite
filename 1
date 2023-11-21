@@ -1,0 +1,9 @@
+table_name = "Studendts"
+data = [
+    [ "name", "room"],
+    [ "vasia", 10],
+    [ "peter", 12]
+]
+create_table_query = f"CREATE TABLE IF NOT EXISTS {table_name} ({','.join(['col'+str(i)+' TEXT' for i in range(len(data[0]))])})"
+
+print(create_table_query)

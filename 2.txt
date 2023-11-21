@@ -1,0 +1,6 @@
+Algorithm	Correctness	Scalability	Interpretation	Suitability for use	Complexity	Versatility	Speed	Popularity
+Classical methods (linear regression)	Middle	High	Middle	High	Middle	Middle	High	Low
+Neural Networks	High	Low	Low	Low	Middle	Low	Very low	Low
+Visualization methods	High	Very low	High	High	Very high	Low	Extremelv low	High
+Decision Trees	Low	High	High	Middle	High	High	Middle	High
+Polynomial neural networks	High	Middle	Low	Middle	Middle	Middle	Middle	Middle
